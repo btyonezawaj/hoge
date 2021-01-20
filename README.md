@@ -1,4 +1,4 @@
-#<table border="3">
+<table border="3">
 <tr>
 <td colspan="3">水平方向の結合</td>
 </tr>
